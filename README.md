@@ -1,6 +1,6 @@
 <h3 align="center">
-  Welcome to Jonah Lawrence's profile!
-  <img src="https://giphy.com/embed/mTs11L9uuyGiI" width="28">
+  Welcome to Albin's profile!
+  <img src="https://giphy.com/embed/oebo5waezwOIk6BTA9" width="28">
 </h3>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
